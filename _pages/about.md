@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational Bio-Arch Group University of Bradford"
+title: "Computational Bio-Arch Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,5 +12,7 @@ redirect_from:
 
 # Our Research
 
-Ancient DNA offers a whole host of 'delightful' issues typically not encountered when working with modern DNA samples. When one attempts to apply modern metagenomic methods to aDNA samples, things get really 'interesting'. Here at the Computational Bio-Arch group at the University of Bradford, we are working to try to disentangle to methodological issues with the hope of getting to grips with some of the fundamental questions related to oral microbiome evolution.
+The Computational Bio-Arch group brings together research backgrounds in population genomics, evolutionary ecology and life-history evolution, with more classical archaeology in order to adress research questions about ancient populations, microbiome diversity and evolution and even whether modern sequencing techniques are actually robust when used with ancient samples.
+
+Ancient DNA offers a whole host of 'delightful' issues typically not encountered when working with modern DNA samples. When one attempts to apply modern metagenomic methods to aDNA samples, things get really 'interesting'. We are working to try to disentangle these methodological issues with the hope of getting to grips with some of the fundamental questions related to oral microbiome evolution.
 
