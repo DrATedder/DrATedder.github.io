@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Biology, University of Wales, Bangor 2004
+* M.Sc. in Ecology (Molecular Ecology), University of Wales, Bangor, 2005
+* Ph.D in Population Genetics, Glasgow University, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - Present: Associate Prof. in Computational Biology
+  * University of Bradford
+  * Duties include: Programme lead for MSc Bioinformatics & MSc Medical Bioscience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2021: Assistant Prof. in Computational Biology
+  * University of Bradford
+  * Duties included: Director of Admissions for School of Chemistry & Bioscience; Programme lead for MSc Bioinformatics & MSc Medical Bioscience
+
+* 2015 - 2017: Research Scientist
+  * Stockholm University
+  * Supervisor: Dr Tanja Slotte
+ 
+* 2011 - 2015: Post-Doctoral Research Assistant
+  * University of Zurich
+  * Supervisor: Professor Kentaro Shimizu
   
 Skills
 ======
