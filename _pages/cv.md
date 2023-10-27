@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Biology, University of Wales, Bangor 2004
+* B.Sc. (Hons) in Biology, University of Wales, Bangor 2004
 * M.Sc. in Ecology (Molecular Ecology), University of Wales, Bangor, 2005
 * Ph.D in Population Genetics, University of Glasgow, 2011
 
