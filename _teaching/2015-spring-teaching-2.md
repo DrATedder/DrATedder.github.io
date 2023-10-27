@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Programme Leader"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Postgraduate course"
+permalink: /teaching/2020-Programme_leader
+venue: "University of Bradford, ChemBio"
+date: 2020-09-01
+location: "Bradford, UK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
