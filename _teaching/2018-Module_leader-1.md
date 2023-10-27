@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Bradford, UK"
 ---
 
-Since 2018, Andrew has been module leader for a number of level 7 (MSc) PGT modules. While specific details age given below, in each case Andrew was responsible for module content development, creation and delivery.
+Since 2018, Andrew has been module leader for a number of level 7 (MSc) PGT modules. While specific details age given below, in each case Andrew was responsible for module development, content creation and delivery.
 
 Advanced Bioinformatics
 ======
