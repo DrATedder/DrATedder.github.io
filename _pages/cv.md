@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Biology, University of Wales, Bangor 2004
 * M.Sc. in Ecology (Molecular Ecology), University of Wales, Bangor, 2005
-* Ph.D in Population Genetics, Glasgow University, 2011
+* Ph.D in Population Genetics, University of Glasgow, 2011
 
 Work experience
 ======
@@ -48,11 +48,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
