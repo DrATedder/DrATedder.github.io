@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr Andrew Tedder - Computational Bio-Arcaeology Group"
+title: "Dr Andrew Tedder"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,11 @@ redirect_from:
 
 ![Header image](/images/BA35B375-35EA-4FE8-8EA4-29915A807055.JPEG)
 
-# About Us
+# About Me
+
+
+
+# About Us - Computational Bio-archaeology Group
 
 The Computational Bio-Arch group brings together research backgrounds in population genomics, evolutionary ecology and life-history evolution, with more classical archaeology in order to adress research questions about ancient populations, microbiome diversity and evolution and even whether modern sequencing techniques are actually robust when used with ancient samples.
 
