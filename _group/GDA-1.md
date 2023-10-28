@@ -1,6 +1,6 @@
 ---
 title: "Gwyn Dahlquist-Axe"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/50x30.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/250x150.png'>"
 collection: group
 ---
 
