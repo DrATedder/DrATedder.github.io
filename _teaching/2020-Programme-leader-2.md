@@ -1,7 +1,7 @@
 ---
-title: "Programme Leader"
+title: "Programme Leadership"
 collection: teaching
-type: "Postgraduate course"
+type: "Postgraduate"
 permalink: /teaching/2020-Programme_leader
 venue: "University of Bradford, ChemBio"
 date: 2020-09-01
