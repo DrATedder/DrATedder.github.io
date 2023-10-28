@@ -1,7 +1,7 @@
 ---
-title: "Module Leader"
+title: "Module Leadership"
 collection: teaching
-type: "Postgraduate course"
+type: "Postgraduate"
 permalink: /teaching/2018-Module-leader
 venue: "University of Bradford, ChemBio"
 date: 2018-09-01
